@@ -1,15 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00d4ff&height=180&section=header&text=Muhammad%20Amir&fontSize=40&fontColor=00d4ff" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00D4FF&center=true&vCenter=true&width=800&lines=🎓+BSCS+Student+%40+NUML+Lahore;💻+Java+%7C+C%2B%2B+%7C+C+Developer;🤖+Exploring+AI%2FML;🚀+Building+foundations+for+tomorrow!" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewith-amir&label=PROFILE+VIEWS&color=00d4ff&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=codeswithamir&label=PROFILE+VIEWS&color=00d4ff&style=flat" alt="Views" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-amir-pk">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -62,12 +59,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codewith-amir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=codewith-amir&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeswithamir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=codeswithamir&theme=tokyonight&hide_border=true" width="400" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codewith-amir&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeswithamir&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </p>
 
 ---
@@ -75,8 +71,19 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-amir&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeswithamir/codeswithamir/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeswithamir/codeswithamir/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/codeswithamir/codeswithamir/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeswithamir&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -86,7 +93,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00D4FF&center=true&vCenter=true&width=900&lines=Build+foundations+today+🏗️;Solve+real+problems+tomorrow+💡;Stay+curious%2C+keep+coding+🚀" />
 </p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
