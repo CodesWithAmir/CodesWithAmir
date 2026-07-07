@@ -75,6 +75,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
+  <!-- GitHub Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-amir&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
