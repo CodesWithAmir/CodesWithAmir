@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00d4ff&height=180&section=header&text=Muhammad%20Amir&fontSize=40&fontColor=00d4ff" />
 </p>
 
-<!-- Profile Picture Placement for Google Image Search -->
-<p align="center">
-  <img src="https://github.com/CodesWithAmir/My-Pictures-/blob/098a042c79b35042f48c93c9ff2f60cfc81d410a/profile-pictures/linkedin/muhammad-amir-codeswithamir.jpg" alt="Muhammad Amir, BSCS student and machine learning and robotics enthusiast" width="150" height="250" style="border-radius: 50%;" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00D4FF&center=true&vCenter=true&width=800&lines=🎓+3rd+Sem+BSCS+Student+%40+NUML+Lahore;💻+Java+%7C+C%2B%2B+%7C+Python;🤖+Exploring+AI%2FML;🚀+Building+codeswithamir!" />
 </p>
