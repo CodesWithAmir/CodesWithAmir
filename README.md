@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeswithamir&label=PROFILE+VIEWS&color=00d4ff&style=flat" alt="Views" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/muhammad-amir-pk">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
